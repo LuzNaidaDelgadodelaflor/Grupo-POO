@@ -1,0 +1,11 @@
+com\sistemadmin\app\LoginUI.class
+com\sistemadmin\app\RegistrarProveedorDialog.class
+com\sistemadmin\app\RolesPanel.class
+com\sistemadmin\app\ProveedoresPanel.class
+com\sistemadmin\app\RegistroUI.class
+com\sistemadmin\app\EventosPanel.class
+com\sistemadmin\app\InformacionUsuariosPanel.class
+com\sistemadmin\app\SistemaAdmin.class
+com\sistemadmin\app\InventarioPanel.class
+com\sistemadmin\app\RepositorioPanel.class
+com\sistemadmin\app\PanelPrincipal.class
